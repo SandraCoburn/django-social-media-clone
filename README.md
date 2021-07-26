@@ -19,6 +19,7 @@ Django and Python practice -> Social Media Clone based from Udemy Django course
 - Python
 - HTML
 - Django
+- Bootstrap
 
 # Getting Started
 
@@ -27,5 +28,5 @@ Django and Python practice -> Social Media Clone based from Udemy Django course
 - conda activate myDjangoEnv
 - django-amind startproject <projectname>
 - django-admin startapp <appname>
-- python3 manage.py migrate
+- python3.9 manage.py migrate #it gave me an error when I tried python3 but worked with python3.9
 - pip install <packagename>
