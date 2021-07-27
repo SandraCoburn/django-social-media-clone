@@ -122,7 +122,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATICFILES_DIR = [Path(BASE_DIR)/'static']
 
-LOGIN_REDIRECT_URL = 'tests'
+LOGIN_REDIRECT_URL = 'test'
 LOGOUT_REDIRECT_URL = 'thanks'
 
 # Default primary key field type
