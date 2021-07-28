@@ -25,9 +25,9 @@ Django and Python practice -> Social Media Clone based from Udemy Django course
 
 ### Most Used Commands
 
-- conda activate myDjangoEnv
-- django-admin startproject <projectname>
-- django-admin startapp <appname>
+- conda activate `myDjangoEnv`
+- django-admin startproject `<projectname>`
+- django-admin startapp `<appname>`
 - python3.9 manage.py migrate #it gave me an error when I tried python3 but worked with python3.9
-- python3.9 manage.py makemigrations <appname>
-- pip install <packagename>
+- python3.9 manage.py makemigrations `<appname>`
+- pip install `<packagename>`
