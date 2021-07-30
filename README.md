@@ -20,6 +20,7 @@ Django and Python practice -> Social Media Clone based from Udemy Django course
 - HTML
 - Django
 - Bootstrap
+- Misaka
 
 # Getting Started
 
