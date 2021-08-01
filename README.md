@@ -21,6 +21,7 @@ Django and Python practice -> Social Media Clone based from Udemy Django course
 - Django
 - Bootstrap
 - Misaka
+- django-braces -> allows to access some convenient Mixins to use with CBVs
 
 # Getting Started
 
