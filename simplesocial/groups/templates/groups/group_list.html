@@ -12,7 +12,7 @@
     <p>Welcome to the groups page!</p>
   </div>
   {% if user.is_authenticated %}
-  <a href="{% url 'groups:create' %" class="btn btn-warning" role="button"
+  <a href="{% url 'groups:create' %}" class="btn btn-warning" role="button"
     ><span class="fa fa-plus"></span>Create New Group</a
   >
   {% endif %}
